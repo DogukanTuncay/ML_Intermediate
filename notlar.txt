@@ -1,0 +1,43 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jul 10 10:18:25 2024
+
+@author: Doğukan
+"""
+
+Tek parametreli olarak 
+Lineer
+R-squared (uncentered):                   0.942
+
+Polynamial 
+R-squared (uncentered):                   0.759
+
+SVR (rbf)
+R-squared (uncentered):                   0.770
+
+DT
+ R-squared (uncentered):                   0.751
+ 
+ RF
+  R-squared (uncentered):                   0.719
+  
+  
+3 parametreli
+
+Lineer
+R-squared (uncentered):                   0.903
+
+Polynomial
+R-squared (uncentered):                   0.680
+
+SVR(rbf)
+R-squared (uncentered):                   0.782
+
+DT
+
+R-squared (uncentered):                   0.679
+
+RF
+
+R-squared (uncentered):                   0.713
+
